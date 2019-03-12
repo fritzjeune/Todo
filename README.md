@@ -33,7 +33,7 @@ Here's a walkthrough of implemented user stories:
 
 Here's a walkthrough updeted of implemented user stories:
 
-<img src='https://https://i.imgur.com/pW6AMF0.gif' title='Video Walkthrough' width='' alt='Video Walkthrough updated' />
+<img src='https://i.imgur.com/pW6AMF0.gif' title='Video Walkthrough' width='' alt='Video Walkthrough updated' />
 
 
 
